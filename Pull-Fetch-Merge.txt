@@ -1,11 +1,13 @@
 ﻿<GitGUIのPull操作法>RemoteでFetchしてMergeする
 
 
-コマンド例
+＜コマンド例＞
+(1)
 $ git fetch origin master
 $ git merge origin/master
 
-
+(2)
+または
 $ git pull origin master
 
 
