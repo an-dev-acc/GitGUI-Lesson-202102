@@ -1,1 +1,1 @@
-﻿
+﻿<GitGUIのPull操作法>RemoteでFetchしてMergeする
