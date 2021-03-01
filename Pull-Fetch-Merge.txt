@@ -1,2 +1,12 @@
 ﻿<GitGUIのPull操作法>RemoteでFetchしてMergeする
-20210301-17:10
+
+
+コマンド例
+$ git fetch origin master
+$ git merge origin/master
+
+
+$ git pull origin master
+
+
+20210301-17:15
